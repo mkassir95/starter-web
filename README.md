@@ -11,3 +11,4 @@ Sample website with plenty of files for demos
 # simple
 ##deployment
 # for
+# add copy right
